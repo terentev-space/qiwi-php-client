@@ -1,5 +1,9 @@
 # Qiwi Php Client
 
+[![Latest Version](https://img.shields.io/github/release/terentev-space/qiwi-php-client.svg?style=flat-square)](https://github.com/terentev-space/qiwi-php-client/releases)
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
+[![Total Downloads](https://img.shields.io/packagist/dt/terentev-space/qiwi-php-client.svg?style=flat-square)](https://packagist.org/packages/terentev-space/qiwi-php-client)
+
 Especially for **[🦊 Zorra Telecom](https://zorra.com)** and **👥 Everyone else**
 
 ## Привет
